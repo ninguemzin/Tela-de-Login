@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    width: 380px;
+    height: 582px;
+    border-radius: 8px;
+    padding: 40px 32px;
+    background-color: #DFE0EB;
+    margin-left: 494px;
+    margin-top: 156px;
+    margin-bottom: 122px;
+    margin-right: 566px;
+}
+

@@ -1,0 +1,201 @@
+.area-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-container {
+    width: 380px;
+    height: 582px;
+    border-radius: 8px;
+    border: 1px solid #DFE0EB;
+    background: #FFFFFF;
+}
+
+.mid-object {
+    position: relative;
+    align-items: center;
+
+}
+
+
+.icons {
+    width: 48px;
+    height: 48px;
+    margin: auto;
+}
+
+.icons {
+    width: 48px;
+    height: 48px;
+    margin: auto;
+    position: relative;
+}
+
+.icon2 {
+    background: linear-gradient(143.7deg, rgba(255, 255, 255, 0.7) 0%, #FFFFFF 100%);
+    position: absolute;
+    width: 18px;
+    height: 21px;
+    background-color: #3751FF;
+}
+
+.frase1 {
+    color: #A4A6B3;
+    height: 24px;
+    opacity: 70%;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 0;
+    line-height: 23.85px;
+    letter-spacing: 0.4px;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.frase2 {
+    color: #252733;
+    height: 30px;
+    font-size: 24px;
+    text-align: center;
+    position: relative;
+    opacity: 70%;
+    margin-top: 32px;
+    letter-spacing: 0.3px;
+    font-weight: 700;
+    line-height: 30.12px;
+    margin-bottom: 0px;
+}
+.frase3 {
+    color: #9FA2B4;
+    margin-top: 12px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    height: 20px;
+    position: relative;
+    text-align: center;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 35px;
+    margin-right: 35px;
+
+}
+
+.email-input {
+    line-height: 20px;
+    margin-top: 6px;
+    height: 46px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px;
+    border-color: #F0F1F7;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    padding-left: 16px;
+    color: #9FA2B4;
+}
+.email-txt {
+    height: 16px;
+    font-size: 12px;
+    line-height: 15.06px;
+    letter-spacing: 0.3px;
+    font-weight: 700;
+    font-weight: bold 0.3px;
+    margin-top: 48px;
+    color: #9FA2B4;
+}
+
+.pass-txt {
+    height: 16px;
+    font-size: 12px;
+    line-height: 15.06px;
+    letter-spacing: 0.3px;
+    font-weight: 700;
+    font-weight: bold 0.3px;
+    margin-top: 24px;
+    color: #9FA2B4;
+    display: flex;
+    justify-content: space-between;
+}
+
+.forgot {
+    text-decoration: none;
+    height: 13px;
+    font-size: 10px;
+    line-height: 12.55px;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+}
+
+.pass-input {
+    line-height: 20px;
+    margin-top: 6px;
+    height: 46px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px;
+    border-color: #F0F1F7;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    padding-left: 16px;
+    color: #9FA2B4;
+}
+
+.btn-login {
+    background-color: #3751FF;
+    border: #3751FF;
+    border-radius: 8px;
+    height: 48px;
+    color: #FFFFFF;
+    margin-top: 24px;
+}
+
+.con-sign {
+
+    margin-top: 32px;
+    height: 20px;
+    text-align: center;
+    
+}
+
+
+
+p {
+    display: inline;
+    font-size: 14px;
+    margin-top: 32px;
+    letter-spacing: 0.3px;
+    margin-bottom: 0px;
+    margin-top: 32px;
+}
+
+.frase4 {
+    line-height: 20px;
+    font-weight: 400;
+    color: #9FA2B4;
+}
+
+.sigin {
+    font-weight: 600;
+    color: #3751FF;
+    text-decoration: none;
+}
+
+
+.visualiza{
+    width: 16.67px;
+    height: 13.33px;
+}

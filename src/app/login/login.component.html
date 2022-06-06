@@ -1,7 +1,7 @@
 <section class="area-login">
   <div class="login-container">
     <div class="mid-object">
-      <form class="login-form">
+      <form class="login-form" formGroup="registrationForm">
         <div class="icons">
           <img class="icon1" src="assets/img/icon1.svg" alt="" />
         </div>
@@ -28,9 +28,9 @@
           id="password"
           placeholder="Password"
           name="password"
-          minlength="8"
+          toggle
           required
-        >
+          >
         <button class="btn-login">Log In</button>
         <div class="con-sign">
           <p class="frase4">
